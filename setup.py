@@ -12,7 +12,7 @@ setup(
     description='translate subtitle files',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/RobertKee/translateSubtitle',
     author='Robert Kee',
     author_email='roberthayeskee@gmail.com',
     keywords='subtitles, srt, translate',

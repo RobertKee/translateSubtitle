@@ -1,4 +1,4 @@
-This script creates a new subtitle file, translating lines with google translate. 
+This script creates a new subtitle file, translating lines with google translate. It is meant to run on the command line.
 The extension will be set to `.<destination_language>.<extension>`, e.g. `.en.srt`
 
 to install:
